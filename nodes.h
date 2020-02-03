@@ -17,4 +17,4 @@ int add(struct node*, int);
 void print(struct node*);
 int delete(struct node*, int);
 int search(struct node*, int);
-
+void freeAll(struct node*);
